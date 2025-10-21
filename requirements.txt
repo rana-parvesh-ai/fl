@@ -1,0 +1,6 @@
+groq
+sentence-transformers
+pymongo
+fastmcp
+python-dotenv
+faiss-cpu
